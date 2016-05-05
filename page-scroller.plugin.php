@@ -5,8 +5,8 @@ Plugin::register(
     __('Page Scroller', 'page-scroller'),
     __('Simple page scroller plugin for Monstra', 'page-scroller'),
     '1.0.0',
-    'Sergiy Tkach / Apromix',
-    'https://github.com/apromix-monstra/page-scroller'
+    'Sergiy Tkach / DevApromix',
+    'https://github.com/devapromix-monstra/page-scroller'
 );
 
 Action::add('theme_header', 'PageScroller::headerCSS');

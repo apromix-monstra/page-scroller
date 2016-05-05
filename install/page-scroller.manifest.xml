@@ -6,6 +6,6 @@
     <plugin_name>Page Scroller</plugin_name>
     <plugin_description>Simple page scroller plugin for Monstra</plugin_description>
     <plugin_version>1.0.0</plugin_version>
-    <plugin_author>Sergiy Tkach / Apromix</plugin_author>
-    <plugin_author_uri>https://github.com/apromix-monstra/page-scroller</plugin_author_uri>
+    <plugin_author>Sergiy Tkach / DevApromix</plugin_author>
+    <plugin_author_uri>https://github.com/devapromix-monstra/page-scroller</plugin_author_uri>
 </root>
